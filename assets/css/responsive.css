@@ -1,0 +1,640 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1449px) {
+    
+    header .container{
+        max-width: 1320px;
+    }
+    .container{
+        max-width: 1260px;
+    }
+    .hero-left h1{
+        font-size: 65px;
+    }
+    .hero-left p{
+        font-size: 18px;
+    }
+    .btn-common {
+        font-size: 16px;
+    }
+    .hero-left {
+        max-width: 490px;
+    }
+    .hero-area {
+        padding: 70px 0;
+    }
+    .heading-2 {
+        font-size: 48px;
+    }
+    .description-text p {
+        font-size: 18px;
+    }
+    .area-title p {
+        font-size: 18px;
+    }
+    .solution-content h4 {
+        font-size: 32px;
+    }
+    .solution-content p {
+        font-size: 18px;
+    }
+    .btn-with-arrow {
+        font-size: 16px;
+    }
+    .btn-with-arrow img {
+        width: 9px;
+    }
+    .heading-3 {
+        font-size: 40px;
+    }
+    .solution-content h5 {
+        font-size: 24px;
+    }
+    .contact-title h3 {
+        font-size: 48px;
+    }
+    .contact-title p {
+        font-size: 18px;
+    }
+    .info-txt h4 {
+        font-size: 20px;
+    }
+    .info-txt a {
+        font-size: 16px;
+    }
+    .info-icon img {
+        width: 22px;
+    }
+    .info-icon {
+        width: 24px;
+    }
+    .copyright-text p {
+        font-size: 14px;
+    }
+    .footer-menu ul li a {
+        font-size: 14px;
+    }
+    .footer-logo img {
+        width: 130px;
+    }
+    .footer-contact {
+        padding-top: 50px;
+        padding-bottom: 120px;
+    }
+    .mainmenu-wrap ul li a {
+        font-size: 16px;
+    }
+    .header-btn a {
+        font-size: 18px;
+    }
+    .logo a img {
+        width: 170px;
+    }
+
+}
+
+
+
+
+@media (min-width: 1200px) and (max-width: 1300px) {
+    .heading-2 {
+        font-size: 42px;
+    }
+    
+
+}
+
+
+
+
+
+
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .heading-2 {
+        font-size: 36px;
+    }
+    .area-title p {
+        font-size: 16px;
+    }
+    .solution-content h4 {
+        font-size: 25px;
+    }
+    .solution-content p {
+        font-size: 16px;
+    }
+    .solution-icon {
+        max-height: 230px;
+    }
+    .solution-icon img {
+        max-height: 170px !important;
+        width: auto !important;
+    }
+    .description-text p {
+        font-size: 16px;
+    }
+    .heading-3 {
+        font-size: 30px;
+    }
+    .solution-content h5 {
+        font-size: 20px;
+    }
+    .contact-title h3 {
+        font-size: 36px;
+    }
+    .hero-left h1 {
+        font-size: 55px;
+    }
+    .hero-left p {
+        font-size: 20px;
+    }
+    .btn-common {
+        font-size: 16px;
+    }
+    .btn-with-arrow {
+        font-size: 16px;
+    }
+    .contact-title p {
+        font-size: 16px;
+    }
+    .info-icon img {
+        width: 20px;
+    }
+    .info-txt a {
+        font-size: 16px;
+    }
+    .info-txt h4 {
+        font-size: 20px;
+    }
+    .footer-logo img {
+        width: 120px;
+    }
+    .copyright-text p {
+        font-size: 14px;
+    }
+    .footer-menu ul li a {
+        font-size: 14px;
+    }
+    .contact-title {
+        max-width: 400px;
+        margin-bottom: 50px;
+    }
+    .footer-contact {
+        padding-top: 40px;
+        padding-bottom: 100px;
+    }
+    .logo a img {
+        width: 140px;
+    }
+    .mainmenu-wrap ul li a {
+        font-size: 16px;
+    }
+    .header-btn a {
+        font-size: 16px;
+    }
+    .hero-left p {
+        font-size: 18px;
+    }
+    .common-area {
+        padding: 100px 0;
+    }
+    .mainmenu-wrap ul li ul li a {
+        display: block;
+        padding: 7px 10px;
+        font-size: 15px;
+    }
+    .btn-with-arrow {
+        font-size: 14px;
+    }
+    .hero-area{
+        height: auto
+    }
+
+}
+ 
+
+
+
+/* LG Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .logo a img {
+        width: 140px;
+    }
+    .mainmenu-wrap ul li a {
+        font-size: 15px;
+    }
+    .header-btn a {
+        border-radius: 12px;
+        font-size: 15px;
+    }
+    .hero-left h1 {
+        font-size: 48px;
+    }
+    .hero-left p {
+        font-size: 16px;
+    }
+    .btn-common {
+        padding: 9px 22px;
+        font-size: 16px;
+    }
+    .heading-2 {
+        font-size: 30px;
+    }
+    .description-text p {
+        font-size: 16px;
+    }
+    .common-area {
+        padding: 100px 0;
+    }
+    .area-title p {
+        font-size: 16px;
+    }
+    .solution-content h4 {
+        font-size: 20px;
+    }
+    .solution-content p {
+        font-size: 14px;
+    }
+    .common-area-two .heading-2 {
+        font-size: 28px;
+    }
+    .common-area-two {
+        padding: 70px 0;
+    }
+    .heading-3 {
+        font-size: 30px;
+    }
+    .solution-content h5 {
+        font-size: 16px;
+    }
+    .contact-title h3 {
+        font-size: 32px;
+    }
+    .contact-title p {
+        font-size: 16px;
+    }
+    .contact-title {
+        max-width: 320px;
+        margin-bottom: 40px;
+    }
+    .info-txt h4 {
+        font-size: 18px;
+    }
+    .footer-contact {
+        padding-top: 40px;
+        padding-bottom: 50px;
+    }
+    .footer-logo img {
+        width: 110px;
+    }
+    .footer-menu ul li {
+        margin-left: 15px;
+    }
+    .footer-menu ul li a {
+        font-size: 13px;
+    }
+    .copyright-text p {
+        font-size: 13px;
+    }
+    .footer-right {
+        justify-content: flex-end;
+    }
+    .btn-with-arrow {
+        font-size: 14px;
+    }
+    .btn-with-arrow img {
+        width: 8px;
+    }
+    .info-txt a {
+        font-size: 15px;
+    }
+    .info-icon img {
+        width: 20px;
+    }
+    .hero-area{
+        height: auto
+    }
+}
+
+
+
+/* SM Small Device :320px. */
+@media only screen and (max-width: 767px) {
+   .header-menu{
+    display: none;
+   }
+   .logo a img {
+        width: 110px;
+    }
+    .header-btn a {
+        padding: 8px 22px;
+        border-radius: 10px;
+        font-size: 15px;
+    }
+    .header-right {
+        justify-content: flex-end;
+        gap: 0 16px;
+    }
+    .menu-trigger span {
+        display: block;
+        width: 100%;
+        height: 2px;
+        background: #000;
+        transition: .3s;
+        border-radius: 3px;
+        position: relative;
+    }
+    .menu-trigger {
+        display: block;
+        width: 30px;
+    }
+    .menu-trigger span:nth-child(2) {
+        margin: 6px 0;
+    }
+    header {
+        background-color: #92CBE2;
+        padding: 12px 0;
+        border-bottom: none;
+    }
+    .hero-left h1 {
+        font-size: 50px;
+    }
+    .btn-common {
+        padding: 10px 20px;
+    }
+    .hero-area{
+        background-image: url(../img/hero-bg-mobile.png);
+        border-bottom: 1px solid #000000;
+        padding: 50px 0;
+    }
+    .hero-right {
+        text-align: center;
+        margin-top: 30px;
+    }
+    .common-area {
+        padding: 70px 0;
+        border-top: 1px solid #F0F0F0;
+    }
+    .heading-2 {
+        font-size: 36px;
+    }
+    .thumbnail-img {
+        margin-top: 50px;
+    }
+    .description-text p {
+        font-size: 16px;
+    }
+    .area-title p {
+        font-size: 16px;
+    }
+    .solution-area .area-title{
+        padding: 0 15px;
+    }
+    .solution-area {
+        overflow: hidden;
+    }
+    .solution-area .container{
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .solution-card{
+        padding: 30px 15px;
+        margin-bottom: 0;
+    }
+    .solution-card.solution-card-1 {
+        background: #C1E2EF;
+    }
+    
+    .solution-card.solution-card-3 {
+        background: #C1E2EF;
+    }
+    .solution-area-one{
+        padding-bottom: 0;
+    }
+    .solution-area-one .solution-btns{
+        margin-top: 0;
+        
+    }
+    .btn-area {
+        padding-bottom: 40px;
+        background: #c1e2ef;
+    }
+    .heading-2 br {
+        display: none;
+    }
+    .common-area {
+        padding: 60px 0;
+        background: #EEEEEE;
+    }
+    .bg-shp {
+        display: none;
+    }
+    .thumbnail-two {
+        padding-left: 0;
+    }
+    .thumbnail-two img {
+        border-radius: 10px;
+    }
+    .solution-area-two{
+        background-color: #fff;
+    }
+    .heading-3 {
+        font-size: 24px;
+    }
+    .solution-content p {
+        font-size: 16px;
+    }
+    .solution-content h5 {
+        font-size: 20px;
+        line-height: 140%;
+    }
+    .footer-shp {
+        display: none;
+    }
+    .footer-contact {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .footer-thumb {
+        display: none;
+    }
+    .contact-title h3 {
+        font-size: 32px;
+        margin-bottom: 15px;
+    }
+    .contact-title p {
+        font-size: 15px;
+        line-height: 150%;
+    }
+    .contact-title {
+        max-width: 345px;
+        margin-bottom: 30px;
+    }
+    .info-txt h4 {
+        font-size: 18px;
+    }
+    .footer-logo {
+        display: none;
+    }
+    .footer-right {
+        display: flex;
+        align-items: center;
+        gap: 20px 0;
+        flex-wrap: wrap;
+        justify-content: center;
+        flex-direction: column-reverse;
+    }
+    .footer-menu ul li {
+        display: inline;
+        margin-left: 0;
+        margin: 5px 6px;
+    }
+    .info-txt a {
+        font-size: 14px;
+    }
+    .footer-logo-two{
+        display: block;
+        position: relative;
+        top: -10px
+    }
+    .footer-logo-two img {
+        width: 75px;
+    }
+    .title-wrp {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+        gap: 0 16px;
+        margin-bottom: 10px;
+    }
+    footer {
+        background-image: linear-gradient(to bottom, #ffffff, #eff2fd, #d7e7fc, #b8ddf8, #93d5f0);
+        border-top: 1px solid #000000;
+    }
+    .menu-trigger.active span:nth-child(2) {
+        opacity: 0;
+        visibility: hidden;
+    }
+    .menu-trigger.active span:nth-child(1) {
+        transform: rotate(45deg);
+        top: 8px;
+    }
+    .menu-trigger.active span:nth-child(3) {
+        transform: rotate(-45deg);
+        top: -8px;
+    }
+    .slideMenu {
+        background: #D8F4FF;
+        position: absolute;
+        left: 0;
+        top: 65px;
+        width: 100%;
+        padding: 20px;
+        text-align: center;
+        transition: .3s;
+        z-index: 99;
+        opacity: 0;
+        visibility: hidden;
+        display: block;
+    }
+    .slideMenu.active {
+        visibility: visible;
+        opacity: 1;
+    }
+    .slideMenu ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+    
+    .slideMenu ul li {
+        display: block;
+        margin: 12px 0;
+    }
+    
+    .slideMenu ul li a {
+        color: #000;
+        text-decoration: none;
+        font-size: 18px;
+        transition: .3s;
+        padding: 5px 0;
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        gap: 0 8px;
+    }
+    .slideMenu ul ul {
+        display: none; /* Hide all submenus initially */
+    }
+    .slideMenu li ul li a {
+        font-size: 15px;
+        padding: 3px;
+    }
+    .slideMenu li ul li {
+        margin: 8px 0;
+    }
+    .hero-left p {
+        font-size: 18px;
+    }
+    .btn-common {
+        padding: 10px 24px;
+        font-size: 16px;
+    }
+    .btn-for-mobile{
+        display: flex;
+    }
+    .btn-for-desktop{
+        display: none;
+    }
+    .common-one{
+        background-color: #fff;
+    }
+    .btn-with-arrow {
+        font-size: 16px;
+    }
+    .btn-with-arrow img {
+        width: 8px;
+    }
+    .footer-menu ul li a {
+        font-size: 13px;
+    }
+    .copyright-text p {
+        font-size: 13px;
+    }
+    .whatsapp-btn img {
+        width: 50px;
+    }
+    .whatsapp-btn {
+        right: 12px;
+        bottom: 12px;
+    }
+    .info-icon img {
+        width: 20px;
+    }
+    .solution-area {
+        padding: 50px 0;
+    }
+    .hero-area{
+        height: auto
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+  
+    
+    
+ 
+}
